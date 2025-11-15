@@ -1,5 +1,6 @@
 
 <!DOCTYPE html>
+<!-- Ultra-modern AI gallery experience package -->
 <html lang="cs">
 <head>
     <meta charset="UTF-8">
